@@ -27,6 +27,27 @@ const users = [
     aboutMe:
       'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga autem maiores voluptates repudiandae amet, sit nostrum consequuntur molestias? Et necessitatibus repellat aliquam quae dolorum, ullam labore fugiat. Dolore, quidem voluptate?',
   },
+  {
+    id: nanoid(),
+    name: 'Emmanuel Samuel',
+    gender: 'male',
+    aboutMe:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga autem maiores voluptates repudiandae amet, sit nostrum consequuntur molestias? Et necessitatibus repellat aliquam quae dolorum, ullam labore fugiat. Dolore, quidem voluptate?',
+  },
+  {
+    id: nanoid(),
+    name: 'Badmus Alice',
+    gender: 'female',
+    aboutMe:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga autem maiores voluptates repudiandae amet, sit nostrum consequuntur molestias? Et necessitatibus repellat aliquam quae dolorum, ullam labore fugiat. Dolore, quidem voluptate?',
+  },
+  {
+    id: nanoid(),
+    name: 'Femi James',
+    gender: 'male',
+    aboutMe:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga autem maiores voluptates repudiandae amet, sit nostrum consequuntur molestias? Et necessitatibus repellat aliquam quae dolorum, ullam labore fugiat. Dolore, quidem voluptate?',
+  },
 ];
 
 app.use(cors());
